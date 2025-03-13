@@ -1,7 +1,6 @@
 <div align="center">
  <img height='150' src="https://media.giphy.com/media/dY5CEmagKGrcFw7BLd/giphy.gif?cid=82a1493bp9mwkgdubry69a4axmn1wtw0gxh4afw8j4wtjlo0&ep=v1_gifs_trending&rid=giphy.gif&ct=g" />
 </div>
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
